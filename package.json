@@ -1,0 +1,23 @@
+{
+  "name": "passport-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.12.3",
+    "body-parser": "^1.12.2",
+    "ejs": "^2.3.1",
+    "cookie-parser": "^1.3.4",
+    "express-session": "^1.11.1",
+    "passport": "^0.2.1",
+    "passport-facebook": "^1.0.3",
+    "passport-http": "^0.2.2",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maghidini",
+  "license": "ISC"
+}
